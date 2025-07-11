@@ -92,22 +92,5 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
----
 
-### 🤖 AI Tools I Use:
-<p align="left">
-  <!-- OpenAI -->
-  <a href="https://openai.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/OpenAI_Logo.svg" alt="openai" width="40" height="40"/>
-  </a>
 
-  <!-- Runway ML -->
-  <a href="https://runwayml.com/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/36260794?s=200&v=4" alt="runwayml" width="40" height="40"/>
-  </a>
-
-  <!-- Claude (Anthropic) -->
-  <a href="https://www.anthropic.com/index/claude" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/A/anthropic-logo-B05D3493FC-seeklogo.com.png" alt="claude" width="40" height="40"/>
-  </a>
-</p>
