@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on [Brindis Real](https://github.com/LaraBerenice/G4_Inventory)
 
-- 🌱 I’m currently learning **HTML and CSS**
+- 🌱 I’m currently learning **automatization in n8n**
 
 - 💬 Ask me about **Data Analysis and e-commerce**
 
